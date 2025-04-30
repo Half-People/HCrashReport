@@ -1,0 +1,173 @@
+{
+    "ExceptionRecord": {
+        "Address": "7FF6E220B827",
+        "Code": 3221225477,
+        "Flags": 0,
+        "Information": [
+            0,
+            33059
+        ]
+    },
+    "stack": [
+        {
+            "address": "7FF6E2203B20",
+            "flags": 0,
+            "mod": {
+                "Characteristics": 34,
+                "DllCharacteristics": 33120,
+                "ImageVersion": "0.0",
+                "LinkerVersion": "14.41",
+                "Machine": "AMD64 (x64)",
+                "Magic": 523,
+                "OperatingSystemVersion": "6.0",
+                "Subsystem": 3,
+                "SubsystemVersion": "6.0",
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe",
+                "time": 1741109413
+            },
+            "name": "StackJsonFileCreate",
+            "tag": 5,
+            "value": 0
+        },
+        {
+            "address": "7FF6E2204D40",
+            "flags": 0,
+            "mod": {
+                "Characteristics": 34,
+                "DllCharacteristics": 33120,
+                "ImageVersion": "0.0",
+                "LinkerVersion": "14.41",
+                "Machine": "AMD64 (x64)",
+                "Magic": 523,
+                "OperatingSystemVersion": "6.0",
+                "Subsystem": 3,
+                "SubsystemVersion": "6.0",
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe",
+                "time": 1741109413
+            },
+            "name": "UnhandledExceptionFilter_",
+            "tag": 5,
+            "value": 0
+        },
+        {
+            "address": "7FF8613B1620",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "UnhandledExceptionFilter",
+            "tag": 10,
+            "value": 0
+        },
+        {
+            "address": "7FF863CF6F40",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "memcpy",
+            "tag": 10,
+            "value": 0
+        },
+        {
+            "address": "7FF863CDF770",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "_C_specific_handler",
+            "tag": 10,
+            "value": 0
+        },
+        {
+            "address": "7FF863CF5350",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "_chkstk",
+            "tag": 10,
+            "value": 0
+        },
+        {
+            "address": "7FF863C6DDF0",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "RtlFindCharInUnicodeString",
+            "tag": 10,
+            "value": 0
+        },
+        {
+            "address": "7FF863CF4450",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "KiUserExceptionDispatcher",
+            "tag": 10,
+            "value": 0
+        },
+        {
+            "address": "7FF6E220B7A0",
+            "flags": 0,
+            "mod": {
+                "Characteristics": 34,
+                "DllCharacteristics": 33120,
+                "ImageVersion": "0.0",
+                "LinkerVersion": "14.41",
+                "Machine": "AMD64 (x64)",
+                "Magic": 523,
+                "OperatingSystemVersion": "6.0",
+                "Subsystem": 3,
+                "SubsystemVersion": "6.0",
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe",
+                "time": 1741109413
+            },
+            "name": "main",
+            "tag": 5,
+            "value": 0
+        },
+        {
+            "address": "7FF6E220BA44",
+            "flags": 0,
+            "mod": {
+                "Characteristics": 34,
+                "DllCharacteristics": 33120,
+                "ImageVersion": "0.0",
+                "LinkerVersion": "14.41",
+                "Machine": "AMD64 (x64)",
+                "Magic": 523,
+                "OperatingSystemVersion": "6.0",
+                "Subsystem": 3,
+                "SubsystemVersion": "6.0",
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe",
+                "time": 1741109413
+            },
+            "name": "__scrt_common_main_seh",
+            "tag": 5,
+            "value": 0
+        },
+        {
+            "address": "7FF862572580",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "BaseThreadInitThunk",
+            "tag": 10,
+            "value": 0
+        },
+        {
+            "address": "7FF863CAAF10",
+            "flags": 512,
+            "mod": {
+                "path": "D:\\HalfPeopleStudioC++ Porject\\HERROR_TEST\\RuningTime\\HERROR_TEST.exe"
+            },
+            "name": "RtlUserThreadStart",
+            "tag": 10,
+            "value": 0
+        }
+    ]
+}
